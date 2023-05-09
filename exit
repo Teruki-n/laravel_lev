@@ -1,0 +1,19 @@
+[33m5759cf7[m[33m ([m[1;36mHEAD -> [m[1;32mdev_basis03[m[33m, [m[1;31morigin/dev_basis03[m[33m, [m[1;31mlev/dev_basis03[m[33m)[m HEAD@{0}: commit: ブログ投稿の詳細ページを表示
+[33m683bd6e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlev/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from master to dev_basis03
+[33m683bd6e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlev/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{2}: merge lev/master: Fast-forward
+[33m8391412[m HEAD@{3}: checkout: moving from dev_basis01 to master
+[33m8391412[m HEAD@{4}: checkout: moving from master to dev_basis01
+[33m8391412[m HEAD@{5}: checkout: moving from dev_basis02 to master
+[33mc53e8f0[m[33m ([m[1;31mlev/dev_basis02[m[33m)[m HEAD@{6}: commit: ページネーションの追加
+[33mce017ba[m HEAD@{7}: commit: ブログ投稿一覧の表示条件変更
+[33meb4ae94[m HEAD@{8}: commit: Controllerから取得したモデルのデータをviewに出力
+[33m8391412[m HEAD@{9}: checkout: moving from master to dev_basis02
+[33m8391412[m HEAD@{10}: merge lev/master: Fast-forward
+[33m5fc41de[m[33m ([m[1;31morigin/dev_basis01[m[33m)[m HEAD@{11}: merge lev/dev_basis01: Fast-forward
+[33m295b612[m HEAD@{12}: checkout: moving from dev_basis01 to master
+[33m8391412[m HEAD@{13}: reset: moving to lev/master
+[33m5fc41de[m[33m ([m[1;31morigin/dev_basis01[m[33m)[m HEAD@{14}: checkout: moving from 5fc41dedbefe0458a476eac221b35f0ac5848da2 to dev_basis01
+[33m5fc41de[m[33m ([m[1;31morigin/dev_basis01[m[33m)[m HEAD@{15}: checkout: moving from dev_basis01 to remotes/origin/dev_basis01
+[33m5fc41de[m[33m ([m[1;31morigin/dev_basis01[m[33m)[m HEAD@{16}: commit: Postコントローラーの作成・実装・設定
+[33m295b612[m HEAD@{17}: checkout: moving from master to dev_basis01
+[33m295b612[m HEAD@{18}: commit (initial): first commit
