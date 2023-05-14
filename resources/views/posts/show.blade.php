@@ -17,8 +17,7 @@
     </div>
     
     <div class="edit">
-        <a href="/posts/{{ $post->id}}/edit">編集する</a>
-        <a href="/">戻る</a>
-    </div>
+        <a href="/posts/{{ $post->id}}/edit">[編集する]</a>
+        <a href="/">[戻る]</a>
 </body>
 </html>

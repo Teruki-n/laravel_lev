@@ -28,15 +28,8 @@
                 {{ $posts->links() }}
         </div>
         <a href='/posts/create'>[作成]</a>
+        <a href="/">[戻る]</a>
         
     </body>
-   <script>
-    function deletePost(id) {
-        'use strict'
 
-        if (confirm('削除すると復元できません。\n本当に削除しますか？')) {
-            document.getElementById(`form_${id}`).submit();
-        }
-    }
-</script>
 </html>   

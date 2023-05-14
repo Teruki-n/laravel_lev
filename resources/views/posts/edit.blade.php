@@ -23,7 +23,7 @@
             <input type="submit" value="更新">
            </form>
            <div class='footer'>
-               <a href="/">キャンセル</a>
+               <a href="/">[キャンセル]</a>
            </div>
        </div>
     </body>
