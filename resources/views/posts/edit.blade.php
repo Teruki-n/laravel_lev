@@ -7,6 +7,7 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     </head>
     <body>
+    <x-app-layout>
        <h1 class="title">編集画面</h1>
        <div class="content">
            <form action="/posts/{{ $post->id}}" method="POST">
@@ -26,5 +27,6 @@
                <a href="/">[キャンセル]</a>
            </div>
        </div>
+    </x-app-layout>
     </body>
 </html>   

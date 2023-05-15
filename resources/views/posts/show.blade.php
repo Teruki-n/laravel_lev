@@ -8,16 +8,18 @@
   <title>Posts</title>
 </head>
 <body>
-    <h1 class="title">
-        {{$post->title}}
-    </h1>
-    <div class="content">
-        <h3>本文</h3>
-        <p>{{$post->body}}</p>
-    </div>
-    
-    <div class="edit">
-        <a href="/posts/{{ $post->id}}/edit">[編集する]</a>
-        <a href="/">[戻る]</a>
+    <x-app-layout>
+        <h1 class="title">
+            {{$post->title}}
+        </h1>
+        <div class="content">
+            <h3>本文</h3>
+            <p>{{$post->body}}</p>
+        </div>
+        
+        <div class="edit">
+            <a href="/posts/{{ $post->id}}/edit">[編集する]</a>
+            <a href="/">[戻る]</a>
+    </x-app-layout>
 </body>
 </html>
